@@ -1,4 +1,4 @@
-# How to run SuperCollider with sound during meetings (Skype/Zoom/etv) on Windows 10
+# How to run SuperCollider with sound during meetings (Skype/Zoom/etc) on Windows 10
 
 //Before starting any meeting you should first open SuperCollider and Boot the Server
 
